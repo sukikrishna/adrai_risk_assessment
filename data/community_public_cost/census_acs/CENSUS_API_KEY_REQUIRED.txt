@@ -1,0 +1,28 @@
+U.S. Census ACS Data — API Key Required
+==========================================
+
+As of 2026, the Census Bureau requires a free API key for all data API requests.
+
+Steps to get and use your key:
+  1. Sign up at: https://api.census.gov/data/key_signup.html  (instant, free)
+  2. Check email for your key
+  3. Re-run this script with your key:
+       CENSUS_API_KEY=your_key_here python download.py
+
+This will download:
+  - ACS 5-Year county estimates for all US counties (national baseline)
+  - Nebraska county subset (93 counties, state FIPS = 31)
+
+Key variables pulled for C_j (Community / Public Cost Risk):
+  B01003_001E  Total population
+  B19013_001E  Median household income
+  B23025_005E  Unemployed civilians
+  B17001_002E  Population below poverty level
+  B25077_001E  Median home value
+  B25064_001E  Median gross rent
+  B19083_001E  Gini index (income inequality)
+
+Alternative: Manual download
+  1. Visit: https://data.census.gov/
+  2. Search 'ACS 5-Year county' for Nebraska
+  3. Download CSV and place in this directory

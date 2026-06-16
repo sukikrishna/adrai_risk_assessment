@@ -1,0 +1,15 @@
+{
+  "NE_state_unemp_rate": "LASST310000000000003",
+  "NE_state_employed": "LASST310000000000005",
+  "NE_state_labor_force": "LASST310000000000006",
+  "Douglas_unemp_rate": "LAUCN3104500000000003",
+  "Douglas_employment": "LAUCN3104500000000005",
+  "Lancaster_unemp_rate": "LAUCN3110900000000003",
+  "Lancaster_employment": "LAUCN3110900000000005",
+  "Sarpy_unemp_rate": "LAUCN3115300000000003",
+  "Hall_unemp_rate": "LAUCN3108100000000003",
+  "Madison_unemp_rate": "LAUCN3111900000000003",
+  "Lincoln_unemp_rate": "LAUCN3111100000000003",
+  "Dawson_unemp_rate": "LAUCN3104700000000003",
+  "Buffalo_unemp_rate": "LAUCN3101900000000003"
+}

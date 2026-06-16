@@ -1,0 +1,14 @@
+BLS QCEW Manual Download Instructions
+======================================
+1. Visit: https://www.bls.gov/cew/downloadable-data.htm
+2. Under 'Annual Data Files', select the most recent year
+3. Download 'CSV — Single Files (all areas and ownerships)'
+4. Extract and place in this directory
+5. Re-run: python download.py
+
+Key columns for C_j risk assessment:
+  area_fips: county FIPS (31xxx = Nebraska)
+  industry_code: NAICS sector
+  avg_annual_pay: average wage in sector
+  annual_avg_emplvl: average employment level
+  total_annual_wages: total wage bill

@@ -1,0 +1,920 @@
+YEAR,STATE,TYPE OF PRODUCER,ENERGY SOURCE,GENERATION (Megawatthours)
+1990.0,NE,Total Electric Power Industry,Total,21633587.0
+1990.0,NE,Total Electric Power Industry,Coal,12661150.0
+1990.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1140093.0
+1990.0,NE,Total Electric Power Industry,Natural Gas,308065.0
+1990.0,NE,Total Electric Power Industry,Nuclear,7511298.0
+1990.0,NE,Total Electric Power Industry,Petroleum,12981.0
+1990.0,NE,"Electric Generators, Electric Utilities",Total,21630677.0
+1990.0,NE,"Electric Generators, Electric Utilities",Coal,12658464.0
+1990.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1140093.0
+1990.0,NE,"Electric Generators, Electric Utilities",Natural Gas,307841.0
+1990.0,NE,"Electric Generators, Electric Utilities",Nuclear,7511298.0
+1990.0,NE,"Electric Generators, Electric Utilities",Petroleum,12981.0
+1990.0,NE,"Combined Heat and Power, Industrial Power",Total,2910.0
+1990.0,NE,"Combined Heat and Power, Industrial Power",Coal,2686.0
+1990.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,224.0
+1991.0,NE,Total Electric Power Industry,Total,23000347.0
+1991.0,NE,Total Electric Power Industry,Coal,13591228.0
+1991.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1044671.0
+1991.0,NE,Total Electric Power Industry,Natural Gas,303327.0
+1991.0,NE,Total Electric Power Industry,Nuclear,8047662.0
+1991.0,NE,Total Electric Power Industry,Petroleum,13459.0
+1991.0,NE,"Electric Generators, Electric Utilities",Total,22971934.0
+1991.0,NE,"Electric Generators, Electric Utilities",Coal,13562815.0
+1991.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1044671.0
+1991.0,NE,"Electric Generators, Electric Utilities",Natural Gas,303327.0
+1991.0,NE,"Electric Generators, Electric Utilities",Nuclear,8047662.0
+1991.0,NE,"Electric Generators, Electric Utilities",Petroleum,13459.0
+1991.0,NE,"Combined Heat and Power, Industrial Power",Total,28413.0
+1991.0,NE,"Combined Heat and Power, Industrial Power",Coal,28413.0
+1992.0,NE,Total Electric Power Industry,Total,22425498.0
+1992.0,NE,Total Electric Power Industry,Coal,12440175.0
+1992.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1075446.0
+1992.0,NE,Total Electric Power Industry,Natural Gas,145492.0
+1992.0,NE,Total Electric Power Industry,Nuclear,8748468.0
+1992.0,NE,Total Electric Power Industry,Other Biomass,6435.0
+1992.0,NE,Total Electric Power Industry,Petroleum,9482.0
+1992.0,NE,"Electric Generators, Electric Utilities",Total,22387247.0
+1992.0,NE,"Electric Generators, Electric Utilities",Coal,12402148.0
+1992.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1075446.0
+1992.0,NE,"Electric Generators, Electric Utilities",Natural Gas,145268.0
+1992.0,NE,"Electric Generators, Electric Utilities",Nuclear,8748468.0
+1992.0,NE,"Electric Generators, Electric Utilities",Other Biomass,6435.0
+1992.0,NE,"Electric Generators, Electric Utilities",Petroleum,9482.0
+1992.0,NE,"Combined Heat and Power, Industrial Power",Total,38251.0
+1992.0,NE,"Combined Heat and Power, Industrial Power",Coal,38027.0
+1992.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,224.0
+1993.0,NE,Total Electric Power Industry,Total,22760857.0
+1993.0,NE,Total Electric Power Industry,Coal,14776211.0
+1993.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1001663.0
+1993.0,NE,Total Electric Power Industry,Natural Gas,153065.0
+1993.0,NE,Total Electric Power Industry,Nuclear,6805133.0
+1993.0,NE,Total Electric Power Industry,Other Biomass,5750.0
+1993.0,NE,Total Electric Power Industry,Petroleum,19035.0
+1993.0,NE,"Electric Generators, Electric Utilities",Total,22724286.0
+1993.0,NE,"Electric Generators, Electric Utilities",Coal,14739783.0
+1993.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1001663.0
+1993.0,NE,"Electric Generators, Electric Utilities",Natural Gas,152922.0
+1993.0,NE,"Electric Generators, Electric Utilities",Nuclear,6805133.0
+1993.0,NE,"Electric Generators, Electric Utilities",Other Biomass,5750.0
+1993.0,NE,"Electric Generators, Electric Utilities",Petroleum,19035.0
+1993.0,NE,"Combined Heat and Power, Industrial Power",Total,36571.0
+1993.0,NE,"Combined Heat and Power, Industrial Power",Coal,36428.0
+1993.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,143.0
+1994.0,NE,Total Electric Power Industry,Total,21983131.0
+1994.0,NE,Total Electric Power Industry,Coal,14039467.0
+1994.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1311883.0
+1994.0,NE,Total Electric Power Industry,Natural Gas,258918.0
+1994.0,NE,Total Electric Power Industry,Nuclear,6345330.0
+1994.0,NE,Total Electric Power Industry,Other Biomass,9332.0
+1994.0,NE,Total Electric Power Industry,Petroleum,18201.0
+1994.0,NE,"Electric Generators, Electric Utilities",Total,21945525.0
+1994.0,NE,"Electric Generators, Electric Utilities",Coal,14002015.0
+1994.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1311883.0
+1994.0,NE,"Electric Generators, Electric Utilities",Natural Gas,258764.0
+1994.0,NE,"Electric Generators, Electric Utilities",Nuclear,6345330.0
+1994.0,NE,"Electric Generators, Electric Utilities",Other Biomass,9332.0
+1994.0,NE,"Electric Generators, Electric Utilities",Petroleum,18201.0
+1994.0,NE,"Combined Heat and Power, Industrial Power",Total,37606.0
+1994.0,NE,"Combined Heat and Power, Industrial Power",Coal,37452.0
+1994.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,154.0
+1995.0,NE,Total Electric Power Industry,Total,25304300.0
+1995.0,NE,Total Electric Power Industry,Coal,16104419.0
+1995.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1426058.0
+1995.0,NE,Total Electric Power Industry,Natural Gas,245428.0
+1995.0,NE,Total Electric Power Industry,Nuclear,7485448.0
+1995.0,NE,Total Electric Power Industry,Other Biomass,16268.0
+1995.0,NE,Total Electric Power Industry,Petroleum,26679.0
+1995.0,NE,"Electric Generators, Electric Utilities",Total,25279277.0
+1995.0,NE,"Electric Generators, Electric Utilities",Coal,16079519.0
+1995.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1426058.0
+1995.0,NE,"Electric Generators, Electric Utilities",Natural Gas,245305.0
+1995.0,NE,"Electric Generators, Electric Utilities",Nuclear,7485448.0
+1995.0,NE,"Electric Generators, Electric Utilities",Other Biomass,16268.0
+1995.0,NE,"Electric Generators, Electric Utilities",Petroleum,26679.0
+1995.0,NE,"Combined Heat and Power, Industrial Power",Total,25023.0
+1995.0,NE,"Combined Heat and Power, Industrial Power",Coal,24900.0
+1995.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,123.0
+1996.0,NE,Total Electric Power Industry,Total,27351109.0
+1996.0,NE,Total Electric Power Industry,Coal,16067002.0
+1996.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1601919.0
+1996.0,NE,Total Electric Power Industry,Natural Gas,193867.0
+1996.0,NE,Total Electric Power Industry,Nuclear,9456814.0
+1996.0,NE,Total Electric Power Industry,Other Biomass,11534.0
+1996.0,NE,Total Electric Power Industry,Petroleum,19973.0
+1996.0,NE,"Electric Generators, Electric Utilities",Total,27322697.0
+1996.0,NE,"Electric Generators, Electric Utilities",Coal,16040775.0
+1996.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1601919.0
+1996.0,NE,"Electric Generators, Electric Utilities",Natural Gas,191682.0
+1996.0,NE,"Electric Generators, Electric Utilities",Nuclear,9456814.0
+1996.0,NE,"Electric Generators, Electric Utilities",Other Biomass,11534.0
+1996.0,NE,"Electric Generators, Electric Utilities",Petroleum,19973.0
+1996.0,NE,"Combined Heat and Power, Industrial Power",Total,28412.0
+1996.0,NE,"Combined Heat and Power, Industrial Power",Coal,26227.0
+1996.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,2185.0
+1997.0,NE,Total Electric Power Industry,Total,28449267.0
+1997.0,NE,Total Electric Power Industry,Coal,17248637.0
+1997.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1672419.0
+1997.0,NE,Total Electric Power Industry,Natural Gas,211301.0
+1997.0,NE,Total Electric Power Industry,Nuclear,9268857.0
+1997.0,NE,Total Electric Power Industry,Other Biomass,16994.0
+1997.0,NE,Total Electric Power Industry,Petroleum,31059.0
+1997.0,NE,"Electric Generators, Electric Utilities",Total,28388030.0
+1997.0,NE,"Electric Generators, Electric Utilities",Coal,17209080.0
+1997.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1672419.0
+1997.0,NE,"Electric Generators, Electric Utilities",Natural Gas,205991.0
+1997.0,NE,"Electric Generators, Electric Utilities",Nuclear,9268857.0
+1997.0,NE,"Electric Generators, Electric Utilities",Other Biomass,624.0
+1997.0,NE,"Electric Generators, Electric Utilities",Petroleum,31059.0
+1997.0,NE,"Combined Heat and Power, Industrial Power",Total,42855.0
+1997.0,NE,"Combined Heat and Power, Industrial Power",Coal,39557.0
+1997.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,3298.0
+1997.0,NE,"Combined Heat and Power, Electric Power",Total,8395.0
+1997.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1407.0
+1997.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,6988.0
+1997.0,NE,"Combined Heat and Power, Commercial Power",Total,9987.0
+1997.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,605.0
+1997.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,9382.0
+1998.0,NE,Total Electric Power Industry,Total,28796791.0
+1998.0,NE,Total Electric Power Industry,Coal,18380471.0
+1998.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1682834.0
+1998.0,NE,Total Electric Power Industry,Natural Gas,414483.0
+1998.0,NE,Total Electric Power Industry,Nuclear,8258803.0
+1998.0,NE,Total Electric Power Industry,Other Biomass,17593.0
+1998.0,NE,Total Electric Power Industry,Petroleum,42607.0
+1998.0,NE,Total Electric Power Industry,Wind,0.0
+1998.0,NE,"Electric Generators, Electric Utilities",Total,28720209.0
+1998.0,NE,"Electric Generators, Electric Utilities",Coal,18335965.0
+1998.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1682834.0
+1998.0,NE,"Electric Generators, Electric Utilities",Natural Gas,400008.0
+1998.0,NE,"Electric Generators, Electric Utilities",Nuclear,8258803.0
+1998.0,NE,"Electric Generators, Electric Utilities",Other Biomass,707.0
+1998.0,NE,"Electric Generators, Electric Utilities",Petroleum,41892.0
+1998.0,NE,"Electric Generators, Electric Utilities",Wind,0.0
+1998.0,NE,"Combined Heat and Power, Industrial Power",Total,47610.0
+1998.0,NE,"Combined Heat and Power, Industrial Power",Coal,44506.0
+1998.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,3104.0
+1998.0,NE,"Combined Heat and Power, Electric Power",Total,8400.0
+1998.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,2392.0
+1998.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,6008.0
+1998.0,NE,"Combined Heat and Power, Commercial Power",Total,20572.0
+1998.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,8979.0
+1998.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,10878.0
+1998.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,715.0
+1999.0,NE,Total Electric Power Industry,Total,30055751.0
+1999.0,NE,Total Electric Power Industry,Coal,17837176.0
+1999.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1719030.0
+1999.0,NE,Total Electric Power Industry,Natural Gas,362628.0
+1999.0,NE,Total Electric Power Industry,Nuclear,10091092.0
+1999.0,NE,Total Electric Power Industry,Other Biomass,16202.0
+1999.0,NE,Total Electric Power Industry,Petroleum,29623.0
+1999.0,NE,Total Electric Power Industry,Wind,0.0
+1999.0,NE,"Electric Generators, Electric Utilities",Total,29980967.0
+1999.0,NE,"Electric Generators, Electric Utilities",Coal,17794136.0
+1999.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1719030.0
+1999.0,NE,"Electric Generators, Electric Utilities",Natural Gas,347902.0
+1999.0,NE,"Electric Generators, Electric Utilities",Nuclear,10091092.0
+1999.0,NE,"Electric Generators, Electric Utilities",Other Biomass,0.0
+1999.0,NE,"Electric Generators, Electric Utilities",Petroleum,28807.0
+1999.0,NE,"Electric Generators, Electric Utilities",Wind,0.0
+1999.0,NE,"Combined Heat and Power, Industrial Power",Total,47762.0
+1999.0,NE,"Combined Heat and Power, Industrial Power",Coal,43040.0
+1999.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,4722.0
+1999.0,NE,"Combined Heat and Power, Electric Power",Total,8733.0
+1999.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1742.0
+1999.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,6991.0
+1999.0,NE,"Combined Heat and Power, Commercial Power",Total,18289.0
+1999.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,8262.0
+1999.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,9211.0
+1999.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,816.0
+2000.0,NE,Total Electric Power Industry,Total,29109863.0
+2000.0,NE,Total Electric Power Industry,Coal,18457933.0
+2000.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1500724.0
+2000.0,NE,Total Electric Power Industry,Natural Gas,451354.0
+2000.0,NE,Total Electric Power Industry,Nuclear,8628679.0
+2000.0,NE,Total Electric Power Industry,Other Biomass,16514.0
+2000.0,NE,Total Electric Power Industry,Petroleum,54659.0
+2000.0,NE,Total Electric Power Industry,Wind,0.0
+2000.0,NE,"Electric Generators, Electric Utilities",Total,29045739.0
+2000.0,NE,"Electric Generators, Electric Utilities",Coal,18424799.0
+2000.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1500724.0
+2000.0,NE,"Electric Generators, Electric Utilities",Natural Gas,437822.0
+2000.0,NE,"Electric Generators, Electric Utilities",Nuclear,8628679.0
+2000.0,NE,"Electric Generators, Electric Utilities",Other Biomass,0.0
+2000.0,NE,"Electric Generators, Electric Utilities",Petroleum,53715.0
+2000.0,NE,"Electric Generators, Electric Utilities",Wind,0.0
+2000.0,NE,"Combined Heat and Power, Industrial Power",Total,38006.0
+2000.0,NE,"Combined Heat and Power, Industrial Power",Coal,33134.0
+2000.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,4872.0
+2000.0,NE,"Combined Heat and Power, Electric Power",Total,7469.0
+2000.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,863.0
+2000.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,6606.0
+2000.0,NE,"Combined Heat and Power, Commercial Power",Total,18649.0
+2000.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,7797.0
+2000.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,9908.0
+2000.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,944.0
+2001.0,NE,Total Electric Power Industry,Total,30485212.0
+2001.0,NE,Total Electric Power Industry,Coal,20238706.0
+2001.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1124122.0
+2001.0,NE,Total Electric Power Industry,Natural Gas,348731.0
+2001.0,NE,Total Electric Power Industry,Nuclear,8726113.0
+2001.0,NE,Total Electric Power Industry,Other,58.0
+2001.0,NE,Total Electric Power Industry,Other Biomass,16663.0
+2001.0,NE,Total Electric Power Industry,Petroleum,28189.0
+2001.0,NE,Total Electric Power Industry,Wind,2630.0
+2001.0,NE,"Electric Generators, Electric Utilities",Total,30411669.0
+2001.0,NE,"Electric Generators, Electric Utilities",Coal,20193542.0
+2001.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1124122.0
+2001.0,NE,"Electric Generators, Electric Utilities",Natural Gas,340050.0
+2001.0,NE,"Electric Generators, Electric Utilities",Nuclear,8726113.0
+2001.0,NE,"Electric Generators, Electric Utilities",Other,58.0
+2001.0,NE,"Electric Generators, Electric Utilities",Other Biomass,0.0
+2001.0,NE,"Electric Generators, Electric Utilities",Petroleum,25154.0
+2001.0,NE,"Electric Generators, Electric Utilities",Wind,2630.0
+2001.0,NE,"Combined Heat and Power, Industrial Power",Total,48254.0
+2001.0,NE,"Combined Heat and Power, Industrial Power",Coal,45164.0
+2001.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,3090.0
+2001.0,NE,"Combined Heat and Power, Electric Power",Total,8289.0
+2001.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,8289.0
+2001.0,NE,"Combined Heat and Power, Commercial Power",Total,17000.0
+2001.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,5591.0
+2001.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,8374.0
+2001.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,3035.0
+2002.0,NE,Total Electric Power Industry,Total,31618494.0
+2002.0,NE,Total Electric Power Industry,Coal,19943907.0
+2002.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1097486.0
+2002.0,NE,Total Electric Power Industry,Natural Gas,413138.0
+2002.0,NE,Total Electric Power Industry,Nuclear,10122242.0
+2002.0,NE,Total Electric Power Industry,Other,0.0
+2002.0,NE,Total Electric Power Industry,Other Biomass,12993.0
+2002.0,NE,Total Electric Power Industry,Other Gases,101.0
+2002.0,NE,Total Electric Power Industry,Petroleum,20549.0
+2002.0,NE,Total Electric Power Industry,Wind,8078.0
+2002.0,NE,"Electric Generators, Electric Utilities",Total,31550226.0
+2002.0,NE,"Electric Generators, Electric Utilities",Coal,19899803.0
+2002.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1097486.0
+2002.0,NE,"Electric Generators, Electric Utilities",Natural Gas,404106.0
+2002.0,NE,"Electric Generators, Electric Utilities",Nuclear,10122242.0
+2002.0,NE,"Electric Generators, Electric Utilities",Other,0.0
+2002.0,NE,"Electric Generators, Electric Utilities",Other Biomass,0.0
+2002.0,NE,"Electric Generators, Electric Utilities",Other Gases,101.0
+2002.0,NE,"Electric Generators, Electric Utilities",Petroleum,18410.0
+2002.0,NE,"Electric Generators, Electric Utilities",Wind,8078.0
+2002.0,NE,"Combined Heat and Power, Industrial Power",Total,44104.0
+2002.0,NE,"Combined Heat and Power, Industrial Power",Coal,44104.0
+2002.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2002.0,NE,"Combined Heat and Power, Electric Power",Total,7500.0
+2002.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1045.0
+2002.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,6455.0
+2002.0,NE,"Combined Heat and Power, Commercial Power",Total,16664.0
+2002.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,7987.0
+2002.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,6538.0
+2002.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,2139.0
+2003.0,NE,Total Electric Power Industry,Total,30455984.0
+2003.0,NE,Total Electric Power Industry,Coal,20954173.0
+2003.0,NE,Total Electric Power Industry,Hydroelectric Conventional,980110.0
+2003.0,NE,Total Electric Power Industry,Natural Gas,381078.0
+2003.0,NE,Total Electric Power Industry,Nuclear,7996902.0
+2003.0,NE,Total Electric Power Industry,Other,0.0
+2003.0,NE,Total Electric Power Industry,Other Biomass,56442.0
+2003.0,NE,Total Electric Power Industry,Other Gases,206.0
+2003.0,NE,Total Electric Power Industry,Petroleum,48852.0
+2003.0,NE,Total Electric Power Industry,Wind,38221.0
+2003.0,NE,"Electric Generators, Electric Utilities",Total,30367879.0
+2003.0,NE,"Electric Generators, Electric Utilities",Coal,20907970.0
+2003.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,980110.0
+2003.0,NE,"Electric Generators, Electric Utilities",Natural Gas,369409.0
+2003.0,NE,"Electric Generators, Electric Utilities",Nuclear,7996902.0
+2003.0,NE,"Electric Generators, Electric Utilities",Other,0.0
+2003.0,NE,"Electric Generators, Electric Utilities",Other Biomass,27090.0
+2003.0,NE,"Electric Generators, Electric Utilities",Other Gases,206.0
+2003.0,NE,"Electric Generators, Electric Utilities",Petroleum,47971.0
+2003.0,NE,"Electric Generators, Electric Utilities",Wind,38221.0
+2003.0,NE,"Combined Heat and Power, Industrial Power",Total,46203.0
+2003.0,NE,"Combined Heat and Power, Industrial Power",Coal,46203.0
+2003.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2003.0,NE,"Combined Heat and Power, Electric Power",Total,21444.0
+2003.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,2538.0
+2003.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,18906.0
+2003.0,NE,"Combined Heat and Power, Commercial Power",Total,20458.0
+2003.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,9131.0
+2003.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,10446.0
+2003.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,881.0
+2004.0,NE,Total Electric Power Industry,Total,32008709.0
+2004.0,NE,Total Electric Power Industry,Coal,20457085.0
+2004.0,NE,Total Electric Power Industry,Hydroelectric Conventional,913021.0
+2004.0,NE,Total Electric Power Industry,Natural Gas,297390.0
+2004.0,NE,Total Electric Power Industry,Nuclear,10241254.0
+2004.0,NE,Total Electric Power Industry,Other,0.0
+2004.0,NE,Total Electric Power Industry,Other Biomass,39518.0
+2004.0,NE,Total Electric Power Industry,Other Gases,142.0
+2004.0,NE,Total Electric Power Industry,Petroleum,21868.0
+2004.0,NE,Total Electric Power Industry,Wind,38431.0
+2004.0,NE,"Electric Generators, Electric Utilities",Total,31944127.0
+2004.0,NE,"Electric Generators, Electric Utilities",Coal,20414960.0
+2004.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,913021.0
+2004.0,NE,"Electric Generators, Electric Utilities",Natural Gas,288576.0
+2004.0,NE,"Electric Generators, Electric Utilities",Nuclear,10241254.0
+2004.0,NE,"Electric Generators, Electric Utilities",Other,0.0
+2004.0,NE,"Electric Generators, Electric Utilities",Other Biomass,26739.0
+2004.0,NE,"Electric Generators, Electric Utilities",Other Gases,142.0
+2004.0,NE,"Electric Generators, Electric Utilities",Petroleum,21004.0
+2004.0,NE,"Electric Generators, Electric Utilities",Wind,38431.0
+2004.0,NE,"Combined Heat and Power, Industrial Power",Total,42125.0
+2004.0,NE,"Combined Heat and Power, Industrial Power",Coal,42125.0
+2004.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2004.0,NE,"Combined Heat and Power, Electric Power",Total,6.0
+2004.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1.0
+2004.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,5.0
+2004.0,NE,"Combined Heat and Power, Commercial Power",Total,22451.0
+2004.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,8813.0
+2004.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,12774.0
+2004.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,864.0
+2005.0,NE,Total Electric Power Industry,Total,31464734.0
+2005.0,NE,Total Electric Power Industry,Coal,20818171.0
+2005.0,NE,Total Electric Power Industry,Hydroelectric Conventional,871473.0
+2005.0,NE,Total Electric Power Industry,Natural Gas,802983.0
+2005.0,NE,Total Electric Power Industry,Nuclear,8801841.0
+2005.0,NE,Total Electric Power Industry,Other Biomass,42646.0
+2005.0,NE,Total Electric Power Industry,Other Gases,6.0
+2005.0,NE,Total Electric Power Industry,Petroleum,31005.0
+2005.0,NE,Total Electric Power Industry,Wind,96608.0
+2005.0,NE,"Electric Generators, Electric Utilities",Total,31391643.0
+2005.0,NE,"Electric Generators, Electric Utilities",Coal,20772590.0
+2005.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,871473.0
+2005.0,NE,"Electric Generators, Electric Utilities",Natural Gas,794533.0
+2005.0,NE,"Electric Generators, Electric Utilities",Nuclear,8801841.0
+2005.0,NE,"Electric Generators, Electric Utilities",Other Biomass,24566.0
+2005.0,NE,"Electric Generators, Electric Utilities",Other Gases,6.0
+2005.0,NE,"Electric Generators, Electric Utilities",Petroleum,30026.0
+2005.0,NE,"Electric Generators, Electric Utilities",Wind,96608.0
+2005.0,NE,"Combined Heat and Power, Industrial Power",Total,45581.0
+2005.0,NE,"Combined Heat and Power, Industrial Power",Coal,45581.0
+2005.0,NE,"Combined Heat and Power, Electric Power",Total,8291.0
+2005.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,842.0
+2005.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,7449.0
+2005.0,NE,"Combined Heat and Power, Commercial Power",Total,19219.0
+2005.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,7608.0
+2005.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,10631.0
+2005.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,980.0
+2006.0,NE,Total Electric Power Industry,Total,31669969.0
+2006.0,NE,Total Electric Power Industry,Coal,20682548.0
+2006.0,NE,Total Electric Power Industry,Hydroelectric Conventional,893386.0
+2006.0,NE,Total Electric Power Industry,Natural Gas,758801.0
+2006.0,NE,Total Electric Power Industry,Nuclear,9002656.0
+2006.0,NE,Total Electric Power Industry,Other Biomass,52014.0
+2006.0,NE,Total Electric Power Industry,Other Gases,0.0
+2006.0,NE,Total Electric Power Industry,Petroleum,19317.0
+2006.0,NE,Total Electric Power Industry,Wind,261247.0
+2006.0,NE,"Electric Generators, Electric Utilities",Total,31599046.0
+2006.0,NE,"Electric Generators, Electric Utilities",Coal,20632855.0
+2006.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,893386.0
+2006.0,NE,"Electric Generators, Electric Utilities",Natural Gas,752584.0
+2006.0,NE,"Electric Generators, Electric Utilities",Nuclear,9002656.0
+2006.0,NE,"Electric Generators, Electric Utilities",Other Biomass,37404.0
+2006.0,NE,"Electric Generators, Electric Utilities",Other Gases,0.0
+2006.0,NE,"Electric Generators, Electric Utilities",Petroleum,18914.0
+2006.0,NE,"Electric Generators, Electric Utilities",Wind,261247.0
+2006.0,NE,"Combined Heat and Power, Industrial Power",Total,49693.0
+2006.0,NE,"Combined Heat and Power, Industrial Power",Coal,49693.0
+2006.0,NE,"Combined Heat and Power, Electric Power",Total,4485.0
+2006.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1348.0
+2006.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,3138.0
+2006.0,NE,"Combined Heat and Power, Commercial Power",Total,16744.0
+2006.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,4869.0
+2006.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,11472.0
+2006.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,403.0
+2007.0,NE,Total Electric Power Industry,Total,32442699.0
+2007.0,NE,Total Electric Power Industry,Coal,19629911.0
+2007.0,NE,Total Electric Power Industry,Hydroelectric Conventional,347444.0
+2007.0,NE,Total Electric Power Industry,Natural Gas,1110020.0
+2007.0,NE,Total Electric Power Industry,Nuclear,11041532.0
+2007.0,NE,Total Electric Power Industry,Other Biomass,61259.0
+2007.0,NE,Total Electric Power Industry,Other Gases,0.0
+2007.0,NE,Total Electric Power Industry,Petroleum,35767.0
+2007.0,NE,Total Electric Power Industry,Wind,216765.0
+2007.0,NE,"Electric Generators, Electric Utilities",Total,32403289.0
+2007.0,NE,"Electric Generators, Electric Utilities",Coal,19611849.0
+2007.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,347444.0
+2007.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1103962.0
+2007.0,NE,"Electric Generators, Electric Utilities",Nuclear,11041532.0
+2007.0,NE,"Electric Generators, Electric Utilities",Other Biomass,46184.0
+2007.0,NE,"Electric Generators, Electric Utilities",Other Gases,0.0
+2007.0,NE,"Electric Generators, Electric Utilities",Petroleum,35552.0
+2007.0,NE,"Electric Generators, Electric Utilities",Wind,216765.0
+2007.0,NE,"Combined Heat and Power, Industrial Power",Total,18062.0
+2007.0,NE,"Combined Heat and Power, Industrial Power",Coal,18062.0
+2007.0,NE,"Combined Heat and Power, Electric Power",Total,4521.0
+2007.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1684.0
+2007.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,2837.0
+2007.0,NE,"Combined Heat and Power, Commercial Power",Total,16827.0
+2007.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,4374.0
+2007.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,12238.0
+2007.0,NE,"Combined Heat and Power, Commercial Power",Petroleum,215.0
+2008.0,NE,Total Electric Power Industry,Total,32373522.0
+2008.0,NE,Total Electric Power Industry,Coal,21479773.0
+2008.0,NE,Total Electric Power Industry,Hydroelectric Conventional,346456.0
+2008.0,NE,Total Electric Power Industry,Natural Gas,758487.0
+2008.0,NE,Total Electric Power Industry,Nuclear,9479039.0
+2008.0,NE,Total Electric Power Industry,Other Biomass,60929.0
+2008.0,NE,Total Electric Power Industry,Other Gases,0.0
+2008.0,NE,Total Electric Power Industry,Petroleum,34655.0
+2008.0,NE,Total Electric Power Industry,Wind,214184.0
+2008.0,NE,"Electric Generators, Electric Utilities",Total,32355676.0
+2008.0,NE,"Electric Generators, Electric Utilities",Coal,21479723.0
+2008.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,346456.0
+2008.0,NE,"Electric Generators, Electric Utilities",Natural Gas,757060.0
+2008.0,NE,"Electric Generators, Electric Utilities",Nuclear,9479039.0
+2008.0,NE,"Electric Generators, Electric Utilities",Other Biomass,44559.0
+2008.0,NE,"Electric Generators, Electric Utilities",Other Gases,0.0
+2008.0,NE,"Electric Generators, Electric Utilities",Petroleum,34655.0
+2008.0,NE,"Electric Generators, Electric Utilities",Wind,214184.0
+2008.0,NE,"Combined Heat and Power, Industrial Power",Total,49.0
+2008.0,NE,"Combined Heat and Power, Industrial Power",Coal,49.0
+2008.0,NE,"Combined Heat and Power, Electric Power",Total,4873.0
+2008.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,1365.0
+2008.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,3508.0
+2008.0,NE,"Combined Heat and Power, Commercial Power",Total,12924.0
+2008.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,63.0
+2008.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,12861.0
+2009.0,NE,Total Electric Power Industry,Total,34001892.0
+2009.0,NE,Total Electric Power Industry,Coal,23349780.0
+2009.0,NE,Total Electric Power Industry,Hydroelectric Conventional,433690.0
+2009.0,NE,Total Electric Power Industry,Natural Gas,311581.0
+2009.0,NE,Total Electric Power Industry,Nuclear,9435142.0
+2009.0,NE,Total Electric Power Industry,Other Biomass,66195.0
+2009.0,NE,Total Electric Power Industry,Petroleum,22869.0
+2009.0,NE,Total Electric Power Industry,Wind,382634.0
+2009.0,NE,"Electric Generators, Independent Power Producers",Total,164662.0
+2009.0,NE,"Electric Generators, Independent Power Producers",Wind,164662.0
+2009.0,NE,"Electric Generators, Electric Utilities",Total,33776062.0
+2009.0,NE,"Electric Generators, Electric Utilities",Coal,23307746.0
+2009.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,433690.0
+2009.0,NE,"Electric Generators, Electric Utilities",Natural Gas,311194.0
+2009.0,NE,"Electric Generators, Electric Utilities",Nuclear,9435142.0
+2009.0,NE,"Electric Generators, Electric Utilities",Other Biomass,47449.0
+2009.0,NE,"Electric Generators, Electric Utilities",Petroleum,22869.0
+2009.0,NE,"Electric Generators, Electric Utilities",Wind,217972.0
+2009.0,NE,"Combined Heat and Power, Industrial Power",Total,42034.0
+2009.0,NE,"Combined Heat and Power, Industrial Power",Coal,42034.0
+2009.0,NE,"Combined Heat and Power, Electric Power",Total,4720.0
+2009.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,97.0
+2009.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,4623.0
+2009.0,NE,"Combined Heat and Power, Commercial Power",Total,14414.0
+2009.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,291.0
+2009.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,14123.0
+2010.0,NE,Total Electric Power Industry,Total,36630006.0
+2010.0,NE,Total Electric Power Industry,Coal,23362776.0
+2010.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1313856.0
+2010.0,NE,Total Electric Power Industry,Natural Gas,375035.0
+2010.0,NE,Total Electric Power Industry,Nuclear,11054337.0
+2010.0,NE,Total Electric Power Industry,Other Biomass,71508.0
+2010.0,NE,Total Electric Power Industry,Petroleum,30849.0
+2010.0,NE,Total Electric Power Industry,Wind,421645.0
+2010.0,NE,"Electric Generators, Independent Power Producers",Total,208275.0
+2010.0,NE,"Electric Generators, Independent Power Producers",Wind,208275.0
+2010.0,NE,"Electric Generators, Electric Utilities",Total,36242921.0
+2010.0,NE,"Electric Generators, Electric Utilities",Coal,23214616.0
+2010.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1313856.0
+2010.0,NE,"Electric Generators, Electric Utilities",Natural Gas,362396.0
+2010.0,NE,"Electric Generators, Electric Utilities",Nuclear,11054337.0
+2010.0,NE,"Electric Generators, Electric Utilities",Other Biomass,53497.0
+2010.0,NE,"Electric Generators, Electric Utilities",Petroleum,30849.0
+2010.0,NE,"Electric Generators, Electric Utilities",Wind,213370.0
+2010.0,NE,"Combined Heat and Power, Industrial Power",Total,160448.0
+2010.0,NE,"Combined Heat and Power, Industrial Power",Coal,148159.0
+2010.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,12289.0
+2010.0,NE,"Combined Heat and Power, Electric Power",Total,5820.0
+2010.0,NE,"Combined Heat and Power, Electric Power",Natural Gas,155.0
+2010.0,NE,"Combined Heat and Power, Electric Power",Other Biomass,5665.0
+2010.0,NE,"Combined Heat and Power, Commercial Power",Total,12542.0
+2010.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,195.0
+2010.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,12347.0
+2011.0,NE,Total Electric Power Industry,Total,36095051.0
+2011.0,NE,Total Electric Power Industry,Coal,25965242.89
+2011.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1617228.0
+2011.0,NE,Total Electric Power Industry,Natural Gas,425894.79
+2011.0,NE,Total Electric Power Industry,Nuclear,6933174.0
+2011.0,NE,Total Electric Power Industry,Other Biomass,65419.5
+2011.0,NE,Total Electric Power Industry,Petroleum,37206.83
+2011.0,NE,Total Electric Power Industry,Wind,1050885.0
+2011.0,NE,"Electric Generators, Independent Power Producers",Total,822020.0
+2011.0,NE,"Electric Generators, Independent Power Producers",Wind,822020.0
+2011.0,NE,"Electric Generators, Electric Utilities",Total,34977559.0
+2011.0,NE,"Electric Generators, Electric Utilities",Coal,25707792.93
+2011.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1617228.0
+2011.0,NE,"Electric Generators, Electric Utilities",Natural Gas,401745.24
+2011.0,NE,"Electric Generators, Electric Utilities",Nuclear,6933174.0
+2011.0,NE,"Electric Generators, Electric Utilities",Other Biomass,51547.0
+2011.0,NE,"Electric Generators, Electric Utilities",Petroleum,37206.83
+2011.0,NE,"Electric Generators, Electric Utilities",Wind,228865.0
+2011.0,NE,"Combined Heat and Power, Industrial Power",Total,278358.0
+2011.0,NE,"Combined Heat and Power, Industrial Power",Coal,257449.96
+2011.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,20908.04
+2011.0,NE,"Combined Heat and Power, Commercial Power",Total,17114.0
+2011.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,3241.5
+2011.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,13872.5
+2012.0,NE,Total Electric Power Industry,Total,34217292.0
+2012.0,NE,Total Electric Power Industry,Coal,25019216.0
+2012.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1257054.0
+2012.0,NE,Total Electric Power Industry,Natural Gas,770100.0
+2012.0,NE,Total Electric Power Industry,Nuclear,5801578.0
+2012.0,NE,Total Electric Power Industry,Petroleum,22583.0
+2012.0,NE,Total Electric Power Industry,Other Biomass,63132.0
+2012.0,NE,Total Electric Power Industry,Wind,1283629.0
+2012.0,NE,"Combined Heat and Power, Industrial Power",Total,344599.0
+2012.0,NE,"Combined Heat and Power, Industrial Power",Coal,333588.0
+2012.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,11011.0
+2012.0,NE,"Combined Heat and Power, Commercial Power",Total,17741.0
+2012.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,692.0
+2012.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,17049.0
+2012.0,NE,"Electric Generators, Independent Power Producers",Total,1072067.0
+2012.0,NE,"Electric Generators, Independent Power Producers",Wind,1072067.0
+2012.0,NE,"Electric Generators, Electric Utilities",Total,32782885.0
+2012.0,NE,"Electric Generators, Electric Utilities",Coal,24685628.0
+2012.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1257054.0
+2012.0,NE,"Electric Generators, Electric Utilities",Natural Gas,758397.0
+2012.0,NE,"Electric Generators, Electric Utilities",Nuclear,5801578.0
+2012.0,NE,"Electric Generators, Electric Utilities",Petroleum,22583.0
+2012.0,NE,"Electric Generators, Electric Utilities",Other Biomass,46083.0
+2012.0,NE,"Electric Generators, Electric Utilities",Wind,211562.0
+2013.0,NE,Total Electric Power Industry,Total,37104627.77
+2013.0,NE,Total Electric Power Industry,Coal,26767101.2
+2013.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1123915.0
+2013.0,NE,Total Electric Power Industry,Natural Gas,436645.29
+2013.0,NE,Total Electric Power Industry,Nuclear,6865367.0
+2013.0,NE,Total Electric Power Industry,Other,0.0
+2013.0,NE,Total Electric Power Industry,Other Biomass,67278.87
+2013.0,NE,Total Electric Power Industry,Petroleum,42560.54
+2013.0,NE,Total Electric Power Industry,Wind,1801759.87
+2013.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2013.0,NE,"Electric Generators, Independent Power Producers",Total,1583211.87
+2013.0,NE,"Electric Generators, Independent Power Producers",Wind,1583211.87
+2013.0,NE,"Electric Generators, Electric Utilities",Total,35170166.9
+2013.0,NE,"Electric Generators, Electric Utilities",Coal,26434152.54
+2013.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1123915.0
+2013.0,NE,"Electric Generators, Electric Utilities",Natural Gas,436499.82
+2013.0,NE,"Electric Generators, Electric Utilities",Nuclear,6865367.0
+2013.0,NE,"Electric Generators, Electric Utilities",Other Biomass,49124.0
+2013.0,NE,"Electric Generators, Electric Utilities",Petroleum,42560.54
+2013.0,NE,"Electric Generators, Electric Utilities",Wind,218548.0
+2013.0,NE,"Combined Heat and Power, Industrial Power",Total,332978.0
+2013.0,NE,"Combined Heat and Power, Industrial Power",Coal,332948.66
+2013.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,29.34
+2013.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2013.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2013.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2013.0,NE,"Combined Heat and Power, Commercial Power",Total,18271.0
+2013.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,116.13
+2013.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,18154.87
+2014.0,NE,Total Electric Power Industry,Total,39431291.0
+2014.0,NE,Total Electric Power Industry,Coal,24922175.0
+2014.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1157781.0
+2014.0,NE,Total Electric Power Industry,Natural Gas,405712.0
+2014.0,NE,Total Electric Power Industry,Nuclear,10101838.0
+2014.0,NE,Total Electric Power Industry,Other,0.0
+2014.0,NE,Total Electric Power Industry,Petroleum,42660.0
+2014.0,NE,Total Electric Power Industry,Other Biomass,64185.0
+2014.0,NE,Total Electric Power Industry,Wind,2736939.0
+2014.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2014.0,NE,"Combined Heat and Power, Industrial Power",Total,342283.0
+2014.0,NE,"Combined Heat and Power, Industrial Power",Coal,341938.0
+2014.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,345.0
+2014.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2014.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2014.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2014.0,NE,"Combined Heat and Power, Commercial Power",Total,17441.0
+2014.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,336.0
+2014.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,17105.0
+2014.0,NE,"Electric Generators, Independent Power Producers",Total,2510607.0
+2014.0,NE,"Electric Generators, Independent Power Producers",Wind,2510607.0
+2014.0,NE,"Electric Generators, Electric Utilities",Total,36560960.0
+2014.0,NE,"Electric Generators, Electric Utilities",Coal,24580237.0
+2014.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1157781.0
+2014.0,NE,"Electric Generators, Electric Utilities",Natural Gas,405031.0
+2014.0,NE,"Electric Generators, Electric Utilities",Nuclear,10101838.0
+2014.0,NE,"Electric Generators, Electric Utilities",Petroleum,42660.0
+2014.0,NE,"Electric Generators, Electric Utilities",Other Biomass,47080.0
+2014.0,NE,"Electric Generators, Electric Utilities",Wind,226332.0
+2015.0,NE,Total Electric Power Industry,Total,39883391.0
+2015.0,NE,Total Electric Power Industry,Coal,24185421.0
+2015.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1684980.0
+2015.0,NE,Total Electric Power Industry,Natural Gas,430731.0
+2015.0,NE,Total Electric Power Industry,Nuclear,10324728.0
+2015.0,NE,Total Electric Power Industry,Other,0.0
+2015.0,NE,Total Electric Power Industry,Petroleum,6115.0
+2015.0,NE,Total Electric Power Industry,Other Biomass,70953.0
+2015.0,NE,Total Electric Power Industry,Wind,3180463.0
+2015.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2015.0,NE,"Combined Heat and Power, Industrial Power",Total,381424.0
+2015.0,NE,"Combined Heat and Power, Industrial Power",Coal,380954.0
+2015.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,470.0
+2015.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2015.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2015.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2015.0,NE,"Combined Heat and Power, Commercial Power",Total,16923.0
+2015.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,704.0
+2015.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,16219.0
+2015.0,NE,"Electric Generators, Independent Power Producers",Total,2962802.0
+2015.0,NE,"Electric Generators, Independent Power Producers",Wind,2962802.0
+2015.0,NE,"Electric Generators, Electric Utilities",Total,36522242.0
+2015.0,NE,"Electric Generators, Electric Utilities",Coal,23804467.0
+2015.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1684980.0
+2015.0,NE,"Electric Generators, Electric Utilities",Natural Gas,429556.0
+2015.0,NE,"Electric Generators, Electric Utilities",Nuclear,10324728.0
+2015.0,NE,"Electric Generators, Electric Utilities",Petroleum,6115.0
+2015.0,NE,"Electric Generators, Electric Utilities",Other Biomass,54734.0
+2015.0,NE,"Electric Generators, Electric Utilities",Wind,217661.0
+2016.0,NE,Total Electric Power Industry,Total,36524869.0
+2016.0,NE,Total Electric Power Industry,Coal,21897715.0
+2016.0,NE,Total Electric Power Industry,Hydroelectric Conventional,856408.0
+2016.0,NE,Total Electric Power Industry,Natural Gas,537910.0
+2016.0,NE,Total Electric Power Industry,Nuclear,9350591.0
+2016.0,NE,Total Electric Power Industry,Other,0.0
+2016.0,NE,Total Electric Power Industry,Petroleum,-17940.0
+2016.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,3981.0
+2016.0,NE,Total Electric Power Industry,Other Biomass,97817.0
+2016.0,NE,Total Electric Power Industry,Wind,3798387.0
+2016.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2016.0,NE,"Combined Heat and Power, Industrial Power",Total,347425.0
+2016.0,NE,"Combined Heat and Power, Industrial Power",Coal,346843.0
+2016.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,582.0
+2016.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2016.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2016.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2016.0,NE,"Combined Heat and Power, Commercial Power",Total,19230.0
+2016.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,1360.0
+2016.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,17870.0
+2016.0,NE,"Electric Generators, Independent Power Producers",Total,3610474.0
+2016.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,3981.0
+2016.0,NE,"Electric Generators, Independent Power Producers",Wind,3606493.0
+2016.0,NE,"Electric Generators, Electric Utilities",Total,32547740.0
+2016.0,NE,"Electric Generators, Electric Utilities",Coal,21550872.0
+2016.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,856408.0
+2016.0,NE,"Electric Generators, Electric Utilities",Natural Gas,535968.0
+2016.0,NE,"Electric Generators, Electric Utilities",Nuclear,9350591.0
+2016.0,NE,"Electric Generators, Electric Utilities",Petroleum,-17940.0
+2016.0,NE,"Electric Generators, Electric Utilities",Other Biomass,79948.0
+2016.0,NE,"Electric Generators, Electric Utilities",Wind,191894.0
+2017.0,NE,Total Electric Power Industry,Total,35406982.0
+2017.0,NE,Total Electric Power Industry,Coal,21173563.0
+2017.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1489058.0
+2017.0,NE,Total Electric Power Industry,Natural Gas,629354.0
+2017.0,NE,Total Electric Power Industry,Nuclear,6912737.0
+2017.0,NE,Total Electric Power Industry,Other,0.0
+2017.0,NE,Total Electric Power Industry,Petroleum,5641.0
+2017.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,15258.0
+2017.0,NE,Total Electric Power Industry,Other Biomass,97287.0
+2017.0,NE,Total Electric Power Industry,Wind,5084084.0
+2017.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2017.0,NE,"Combined Heat and Power, Industrial Power",Total,360411.0
+2017.0,NE,"Combined Heat and Power, Industrial Power",Coal,360410.0
+2017.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,1.0
+2017.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2017.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2017.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2017.0,NE,"Combined Heat and Power, Commercial Power",Total,18741.0
+2017.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,1357.0
+2017.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,17384.0
+2017.0,NE,"Electric Generators, Independent Power Producers",Total,4933312.0
+2017.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,15258.0
+2017.0,NE,"Electric Generators, Independent Power Producers",Wind,4918054.0
+2017.0,NE,"Electric Generators, Electric Utilities",Total,30094518.0
+2017.0,NE,"Electric Generators, Electric Utilities",Coal,20813153.0
+2017.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1489058.0
+2017.0,NE,"Electric Generators, Electric Utilities",Natural Gas,627995.0
+2017.0,NE,"Electric Generators, Electric Utilities",Nuclear,6912737.0
+2017.0,NE,"Electric Generators, Electric Utilities",Petroleum,5641.0
+2017.0,NE,"Electric Generators, Electric Utilities",Other Biomass,79903.0
+2017.0,NE,"Electric Generators, Electric Utilities",Wind,166030.0
+2018.0,NE,Total Electric Power Industry,Total,36966216.0
+2018.0,NE,Total Electric Power Industry,Coal,23305208.0
+2018.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1382073.0
+2018.0,NE,Total Electric Power Industry,Natural Gas,964790.0
+2018.0,NE,Total Electric Power Industry,Nuclear,5632140.0
+2018.0,NE,Total Electric Power Industry,Other,0.0
+2018.0,NE,Total Electric Power Industry,Petroleum,12474.0
+2018.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,27112.0
+2018.0,NE,Total Electric Power Industry,Other Biomass,93313.0
+2018.0,NE,Total Electric Power Industry,Wind,5549106.0
+2018.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2018.0,NE,"Combined Heat and Power, Industrial Power",Total,373842.0
+2018.0,NE,"Combined Heat and Power, Industrial Power",Coal,373842.0
+2018.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2018.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2018.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2018.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2018.0,NE,"Combined Heat and Power, Commercial Power",Total,18229.0
+2018.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,3290.0
+2018.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,14939.0
+2018.0,NE,"Electric Generators, Independent Power Producers",Total,5407379.0
+2018.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,27112.0
+2018.0,NE,"Electric Generators, Independent Power Producers",Wind,5380267.0
+2018.0,NE,"Electric Generators, Electric Utilities",Total,31166766.0
+2018.0,NE,"Electric Generators, Electric Utilities",Coal,22931366.0
+2018.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1382073.0
+2018.0,NE,"Electric Generators, Electric Utilities",Natural Gas,961500.0
+2018.0,NE,"Electric Generators, Electric Utilities",Nuclear,5632140.0
+2018.0,NE,"Electric Generators, Electric Utilities",Petroleum,12474.0
+2018.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,0.0
+2018.0,NE,"Electric Generators, Electric Utilities",Other Biomass,78374.0
+2018.0,NE,"Electric Generators, Electric Utilities",Wind,168839.0
+2019.0,NE,Total Electric Power Industry,Total,37297615.0
+2019.0,NE,Total Electric Power Industry,Coal,20385423.0
+2019.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1340252.0
+2019.0,NE,Total Electric Power Industry,Natural Gas,1276856.0
+2019.0,NE,Total Electric Power Industry,Nuclear,6951600.0
+2019.0,NE,Total Electric Power Industry,Other,0.0
+2019.0,NE,Total Electric Power Industry,Petroleum,16168.0
+2019.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,31706.0
+2019.0,NE,Total Electric Power Industry,Other Biomass,84518.0
+2019.0,NE,Total Electric Power Industry,Wind,7211092.0
+2019.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2019.0,NE,"Combined Heat and Power, Industrial Power",Total,347563.0
+2019.0,NE,"Combined Heat and Power, Industrial Power",Coal,347563.0
+2019.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2019.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2019.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2019.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2019.0,NE,"Combined Heat and Power, Commercial Power",Total,17520.0
+2019.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,4188.0
+2019.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,13332.0
+2019.0,NE,"Electric Generators, Independent Power Producers",Total,6914040.0
+2019.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,27078.0
+2019.0,NE,"Electric Generators, Independent Power Producers",Wind,6886962.0
+2019.0,NE,"Electric Generators, Electric Utilities",Total,30018492.0
+2019.0,NE,"Electric Generators, Electric Utilities",Coal,20037860.0
+2019.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1340252.0
+2019.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1272668.0
+2019.0,NE,"Electric Generators, Electric Utilities",Nuclear,6951600.0
+2019.0,NE,"Electric Generators, Electric Utilities",Petroleum,16168.0
+2019.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,4628.0
+2019.0,NE,"Electric Generators, Electric Utilities",Other Biomass,71186.0
+2019.0,NE,"Electric Generators, Electric Utilities",Wind,324130.0
+2020.0,NE,Total Electric Power Industry,Total,36848681.0
+2020.0,NE,Total Electric Power Industry,Coal,18788647.0
+2020.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1390089.0
+2020.0,NE,Total Electric Power Industry,Natural Gas,1208709.0
+2020.0,NE,Total Electric Power Industry,Nuclear,6188551.0
+2020.0,NE,Total Electric Power Industry,Other,0.0
+2020.0,NE,Total Electric Power Industry,Petroleum,14034.0
+2020.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,53608.0
+2020.0,NE,Total Electric Power Industry,Other Biomass,89701.0
+2020.0,NE,Total Electric Power Industry,Wind,9115342.0
+2020.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2020.0,NE,"Combined Heat and Power, Industrial Power",Total,239200.0
+2020.0,NE,"Combined Heat and Power, Industrial Power",Coal,239200.0
+2020.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2020.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2020.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2020.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2020.0,NE,"Combined Heat and Power, Commercial Power",Total,16024.0
+2020.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,4060.0
+2020.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,11964.0
+2020.0,NE,"Electric Generators, Independent Power Producers",Total,8836865.0
+2020.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,45628.0
+2020.0,NE,"Electric Generators, Independent Power Producers",Wind,8791237.0
+2020.0,NE,"Electric Generators, Electric Utilities",Total,27756592.0
+2020.0,NE,"Electric Generators, Electric Utilities",Coal,18549447.0
+2020.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1390089.0
+2020.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1204649.0
+2020.0,NE,"Electric Generators, Electric Utilities",Nuclear,6188551.0
+2020.0,NE,"Electric Generators, Electric Utilities",Petroleum,14034.0
+2020.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,7980.0
+2020.0,NE,"Electric Generators, Electric Utilities",Other Biomass,77737.0
+2020.0,NE,"Electric Generators, Electric Utilities",Wind,324105.0
+2021.0,NE,Total Electric Power Industry,Total,37910898.0
+2021.0,NE,Total Electric Power Industry,Coal,18933617.0
+2021.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1123156.0
+2021.0,NE,Total Electric Power Industry,Natural Gas,1173365.0
+2021.0,NE,Total Electric Power Industry,Nuclear,6880622.0
+2021.0,NE,Total Electric Power Industry,Other,-28.0
+2021.0,NE,Total Electric Power Industry,Petroleum,55130.0
+2021.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,60523.0
+2021.0,NE,Total Electric Power Industry,Other Biomass,92473.0
+2021.0,NE,Total Electric Power Industry,Wind,9592039.0
+2021.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2021.0,NE,"Combined Heat and Power, Industrial Power",Total,330511.0
+2021.0,NE,"Combined Heat and Power, Industrial Power",Coal,330511.0
+2021.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2021.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2021.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2021.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2021.0,NE,"Combined Heat and Power, Commercial Power",Total,17924.0
+2021.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,2607.0
+2021.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,15317.0
+2021.0,NE,"Electric Generators, Independent Power Producers",Total,9554507.0
+2021.0,NE,"Electric Generators, Independent Power Producers",Other,-28.0
+2021.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,52705.0
+2021.0,NE,"Electric Generators, Independent Power Producers",Wind,9501830.0
+2021.0,NE,"Electric Generators, Electric Utilities",Total,28007956.0
+2021.0,NE,"Electric Generators, Electric Utilities",Coal,18603106.0
+2021.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1123156.0
+2021.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1170758.0
+2021.0,NE,"Electric Generators, Electric Utilities",Nuclear,6880622.0
+2021.0,NE,"Electric Generators, Electric Utilities",Petroleum,55130.0
+2021.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,7818.0
+2021.0,NE,"Electric Generators, Electric Utilities",Other Biomass,77157.0
+2021.0,NE,"Electric Generators, Electric Utilities",Wind,90209.0
+2022.0,NE,Total Electric Power Industry,Total,40692718.0
+2022.0,NE,Total Electric Power Industry,Coal,19945269.0
+2022.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1057372.0
+2022.0,NE,Total Electric Power Industry,Natural Gas,1260182.0
+2022.0,NE,Total Electric Power Industry,Nuclear,5618504.0
+2022.0,NE,Total Electric Power Industry,Other,-105.0
+2022.0,NE,Total Electric Power Industry,Petroleum,35109.0
+2022.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,73816.0
+2022.0,NE,Total Electric Power Industry,Other Biomass,88510.0
+2022.0,NE,Total Electric Power Industry,Wind,12614061.0
+2022.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2022.0,NE,"Combined Heat and Power, Industrial Power",Total,324603.0
+2022.0,NE,"Combined Heat and Power, Industrial Power",Coal,324603.0
+2022.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,0.0
+2022.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2022.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2022.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2022.0,NE,"Combined Heat and Power, Commercial Power",Total,18786.0
+2022.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,634.0
+2022.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,18152.0
+2022.0,NE,"Electric Generators, Independent Power Producers",Total,12587419.0
+2022.0,NE,"Electric Generators, Independent Power Producers",Other,-105.0
+2022.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,65333.0
+2022.0,NE,"Electric Generators, Independent Power Producers",Wind,12522191.0
+2022.0,NE,"Electric Generators, Electric Utilities",Total,27761910.0
+2022.0,NE,"Electric Generators, Electric Utilities",Coal,19620666.0
+2022.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1057372.0
+2022.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1259548.0
+2022.0,NE,"Electric Generators, Electric Utilities",Nuclear,5618504.0
+2022.0,NE,"Electric Generators, Electric Utilities",Petroleum,35109.0
+2022.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,8483.0
+2022.0,NE,"Electric Generators, Electric Utilities",Other Biomass,70358.0
+2022.0,NE,"Electric Generators, Electric Utilities",Wind,91870.0
+2023.0,NE,Total Electric Power Industry,Total,39445955.0
+2023.0,NE,Total Electric Power Industry,Coal,17916482.0
+2023.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1142896.0
+2023.0,NE,Total Electric Power Industry,Natural Gas,1410846.0
+2023.0,NE,Total Electric Power Industry,Nuclear,6926053.0
+2023.0,NE,Total Electric Power Industry,Other,-27.0
+2023.0,NE,Total Electric Power Industry,Petroleum,35117.0
+2023.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,79423.0
+2023.0,NE,Total Electric Power Industry,Other Biomass,89959.0
+2023.0,NE,Total Electric Power Industry,Wind,11845206.0
+2023.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2023.0,NE,"Combined Heat and Power, Industrial Power",Total,304470.0
+2023.0,NE,"Combined Heat and Power, Industrial Power",Coal,298003.0
+2023.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,6467.0
+2023.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2023.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2023.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2023.0,NE,"Combined Heat and Power, Commercial Power",Total,19474.0
+2023.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,1674.0
+2023.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,17800.0
+2023.0,NE,"Electric Generators, Independent Power Producers",Total,11830101.0
+2023.0,NE,"Electric Generators, Independent Power Producers",Other,-27.0
+2023.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,71636.0
+2023.0,NE,"Electric Generators, Independent Power Producers",Wind,11758492.0
+2023.0,NE,"Electric Generators, Electric Utilities",Total,27291910.0
+2023.0,NE,"Electric Generators, Electric Utilities",Coal,17618479.0
+2023.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1142896.0
+2023.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1402705.0
+2023.0,NE,"Electric Generators, Electric Utilities",Nuclear,6926053.0
+2023.0,NE,"Electric Generators, Electric Utilities",Other,0.0
+2023.0,NE,"Electric Generators, Electric Utilities",Petroleum,35117.0
+2023.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,7787.0
+2023.0,NE,"Electric Generators, Electric Utilities",Other Biomass,72158.0
+2023.0,NE,"Electric Generators, Electric Utilities",Wind,86714.0
+2024.0,NE,Total Electric Power Industry,Total,37228950.0
+2024.0,NE,Total Electric Power Industry,Coal,16352213.0
+2024.0,NE,Total Electric Power Industry,Hydroelectric Conventional,1182670.0
+2024.0,NE,Total Electric Power Industry,Natural Gas,1381470.0
+2024.0,NE,Total Electric Power Industry,Nuclear,6095731.0
+2024.0,NE,Total Electric Power Industry,Other,-52.0
+2024.0,NE,Total Electric Power Industry,Petroleum,47819.0
+2024.0,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,196130.0
+2024.0,NE,Total Electric Power Industry,Other Biomass,81761.0
+2024.0,NE,Total Electric Power Industry,Wind,11891207.0
+2024.0,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0
+2024.0,NE,"Combined Heat and Power, Industrial Power",Total,327231.0
+2024.0,NE,"Combined Heat and Power, Industrial Power",Coal,302093.0
+2024.0,NE,"Combined Heat and Power, Industrial Power",Natural Gas,25138.0
+2024.0,NE,"Combined Heat and Power, Industrial Power",Other,0.0
+2024.0,NE,"Combined Heat and Power, Industrial Power",Other Biomass,0.0
+2024.0,NE,"Combined Heat and Power, Industrial Power",Wood and Wood Derived Fuels,0.0
+2024.0,NE,"Combined Heat and Power, Commercial Power",Total,19586.0
+2024.0,NE,"Combined Heat and Power, Commercial Power",Natural Gas,6976.0
+2024.0,NE,"Combined Heat and Power, Commercial Power",Other Biomass,12610.0
+2024.0,NE,"Electric Generators, Independent Power Producers",Total,12006396.0
+2024.0,NE,"Electric Generators, Independent Power Producers",Other,-28.0
+2024.0,NE,"Electric Generators, Independent Power Producers",Solar Thermal and Photovoltaic,176995.0
+2024.0,NE,"Electric Generators, Independent Power Producers",Wind,11829429.0
+2024.0,NE,"Electric Generators, Electric Utilities",Total,24875737.0
+2024.0,NE,"Electric Generators, Electric Utilities",Coal,16050120.0
+2024.0,NE,"Electric Generators, Electric Utilities",Hydroelectric Conventional,1182670.0
+2024.0,NE,"Electric Generators, Electric Utilities",Natural Gas,1349357.0
+2024.0,NE,"Electric Generators, Electric Utilities",Nuclear,6095731.0
+2024.0,NE,"Electric Generators, Electric Utilities",Other,-24.0
+2024.0,NE,"Electric Generators, Electric Utilities",Petroleum,47819.0
+2024.0,NE,"Electric Generators, Electric Utilities",Solar Thermal and Photovoltaic,19135.0
+2024.0,NE,"Electric Generators, Electric Utilities",Other Biomass,69151.0
+2024.0,NE,"Electric Generators, Electric Utilities",Wind,61778.0

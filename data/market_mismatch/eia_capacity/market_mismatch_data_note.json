@@ -1,0 +1,16 @@
+{
+  "risk_variable": "O_j (Market Mismatch / Operational Fragility)",
+  "definition": "Captures downside risks to the operational and financial viability of AI infrastructure investments.",
+  "key_indicators": {
+    "planned_additions": "New generation capacity planned \u2014 indicates whether grid can absorb large incremental AI data center demand without stranding new assets",
+    "planned_retirements": "Retiring generation \u2014 reduces reserve margins, may force new procurement under unfavorable conditions",
+    "retail_electricity_price": "Average price (cents/kWh) for commercial/industrial customers \u2014 directly affects data center operating cost and community rate impacts",
+    "demand_uncertainty": "Gap between projected AI compute demand and realized utilization \u2014 not directly downloadable; requires analyst judgment from EPRI/company disclosures"
+  },
+  "nebraska_relevance": "Nebraska's publicly owned utilities (OPPD, LES, NPPD) operate with limited reserve margins. Large incremental loads from hyperscale data centers increase E_marginal and risk of cost overruns, stranded assets, or rate increases.",
+  "additional_sources": {
+    "EPRI_AI_report": "https://www.epri.com/research/products/000000003002028905",
+    "NERC_reliability": "https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx",
+    "EIA_electric_power_monthly": "https://www.eia.gov/electricity/monthly/"
+  }
+}

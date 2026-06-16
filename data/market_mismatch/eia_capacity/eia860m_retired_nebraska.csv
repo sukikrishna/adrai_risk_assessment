@@ -1,0 +1,59 @@
+Entity ID,Entity Name,Plant ID,Plant Name,Google Map,Bing Map,Plant State,County,Balancing Authority Code,Sector,Generator ID,Unit Code,Nameplate Capacity (MW),Net Summer Capacity (MW),Net Winter Capacity (MW),Technology,Energy Source Code,Prime Mover Code,Operating Month,Operating Year,Retirement Month,Retirement Year,Nameplate Energy Capacity (MWh),DC Net Capacity (MW),Latitude,Longitude
+13698,North Central Public Pwr Dist,2297,Plainview Muncipal Power,Map,Map,NE,Pierce,SWPP,Electric Utility,1,,1.1,1.1,1.1,Petroleum Liquids,DFO,IC,1,1949,1,2023, , ,42.35,-97.79056
+13698,North Central Public Pwr Dist,2297,Plainview Muncipal Power,Map,Map,NE,Pierce,SWPP,Electric Utility,3,,0.9,0.9,0.9,Petroleum Liquids,DFO,IC,1,1958,1,2023, , ,42.35,-97.79056
+13698,North Central Public Pwr Dist,2297,Plainview Muncipal Power,Map,Map,NE,Pierce,SWPP,Electric Utility,4,,1.2,1.2,1.2,Petroleum Liquids,DFO,IC,1,1963,1,2023, , ,42.35,-97.79056
+13698,North Central Public Pwr Dist,2297,Plainview Muncipal Power,Map,Map,NE,Pierce,SWPP,Electric Utility,5,,1.8,1.8,1.8,Petroleum Liquids,DFO,IC,6,1999,1,2023, , ,42.35,-97.79056
+871,Village of Arnold - (NE),2216,Arnold,Map,Map,NE,Custer,SWPP,Electric Utility,1,,0.5,0.5,0.5,Petroleum Liquids,DFO,IC,1,1960,7,2022, , ,41.421928,-100.1956
+871,Village of Arnold - (NE),2216,Arnold,Map,Map,NE,Custer,SWPP,Electric Utility,2A,,0.1,0.1,0.1,Petroleum Liquids,DFO,IC,1,1937,7,2022, , ,41.421928,-100.1956
+871,Village of Arnold - (NE),2216,Arnold,Map,Map,NE,Custer,SWPP,Electric Utility,3,,0.2,0.2,0.2,Petroleum Liquids,DFO,IC,1,1942,7,2022, , ,41.421928,-100.1956
+871,Village of Arnold - (NE),2216,Arnold,Map,Map,NE,Custer,SWPP,Electric Utility,4,,0.3,0.2,0.2,Petroleum Liquids,DFO,IC,1,1946,7,2022, , ,41.421928,-100.1956
+13337,Nebraska Public Power District,2278,Spencer Hydro,Map,Map,NE,Boyd,SWPP,Electric Utility,1,,0.8,0,0,Conventional Hydroelectric,WAT,HY,1,1927,3,2019, , ,42.809337,-98.65628
+13337,Nebraska Public Power District,2278,Spencer Hydro,Map,Map,NE,Boyd,SWPP,Electric Utility,2,,1.6,0,0,Conventional Hydroelectric,WAT,HY,1,1952,3,2019, , ,42.809337,-98.65628
+20397,City of West Point - (NE),2313,West Point Municipal,Map,Map,NE,Cuming,SWPP,Electric Utility,5,,4.1,4.1,4.1,Natural Gas Internal Combustion Engine,NG,IC,6,1971,11,2018, , ,41.844936,-96.71345
+5097,City of Deshler - (NE),2234,Deshler,Map,Map,NE,Thayer,SWPP,Electric Utility,1A,,0.3,0.3,0.3,Petroleum Liquids,DFO,IC,1,2001,3,2018, , ,40.1408,-97.7239
+5097,City of Deshler - (NE),2234,Deshler,Map,Map,NE,Thayer,SWPP,Electric Utility,2,,0.3,0.2,0.2,Petroleum Liquids,DFO,IC,1,1950,3,2018, , ,40.1408,-97.7239
+40606,City of Grand Island - (NE),2241,C W Burdick,Map,Map,NE,Hall,SWPP,Electric Utility,3,,54.4,54,54,Natural Gas Steam Turbine,NG,ST,2,1972,9,2017, , ,40.9228,-98.3269
+61369,"Kimball Wind, LLC",56106,Kimball Wind,Map,Map,NE,Kimball,WACM,IPP Non-CHP,1,,10.5,10.5,10.5,Onshore Wind Turbine,WND,WT,10,2002,5,2017, , ,41.2736,-103.6983
+6132,City of Fairbury,2236,Fairbury,Map,Map,NE,Jefferson,SWPP,Electric Utility,1,,4,3.8,4,Natural Gas Steam Turbine,NG,ST,1,1948,3,2017, , ,40.133872,-97.18429
+6132,City of Fairbury,2236,Fairbury,Map,Map,NE,Jefferson,SWPP,Electric Utility,2,,2.5,2.5,2.5,Natural Gas Steam Turbine,NG,ST,1,1938,3,2017, , ,40.133872,-97.18429
+6132,City of Fairbury,2236,Fairbury,Map,Map,NE,Jefferson,SWPP,Electric Utility,4,,12.5,12.5,13,Natural Gas Steam Turbine,NG,ST,1,1965,3,2017, , ,40.133872,-97.18429
+14127,Omaha Public Power District,2289,Fort Calhoun,Map,Map,NE,Washington,SWPP,Electric Utility,1,,502,482.8,482.8,Nuclear,NUC,ST,9,1973,10,2016, , ,41.520522,-96.07751
+40606,City of Grand Island - (NE),2241,C W Burdick,Map,Map,NE,Hall,SWPP,Electric Utility,1,,18.7,16.5,16.5,Natural Gas Steam Turbine,NG,ST,10,1957,9,2016, , ,40.9228,-98.3269
+40606,City of Grand Island - (NE),2241,C W Burdick,Map,Map,NE,Hall,SWPP,Electric Utility,2,,24.9,22,22,Natural Gas Steam Turbine,NG,ST,8,1963,9,2016, , ,40.9228,-98.3269
+10760,City of Laurel - (NE),2249,Laurel,Map,Map,NE,Cedar,SWPP,Electric Utility,4,,0.4,0.3,0.4,Natural Gas Internal Combustion Engine,NG,IC,1,1960,4,2016, , ,42.430539,-97.09081
+3373,City of Chappell - (NE),2230,Chappell,Map,Map,NE,Deuel,SWPP,Electric Utility,1,,0.2,0.1,0.1,Petroleum Liquids,DFO,IC,1,1940,3,2016, , ,41.092589,-102.4715
+10760,City of Laurel - (NE),2249,Laurel,Map,Map,NE,Cedar,SWPP,Electric Utility,3,,0.6,0.5,0.6,Natural Gas Internal Combustion Engine,NG,IC,1,1965,3,2016, , ,42.430539,-97.09081
+10760,City of Laurel - (NE),2249,Laurel,Map,Map,NE,Cedar,SWPP,Electric Utility,6,,0.2,0.2,0.2,Natural Gas Internal Combustion Engine,NG,IC,1,1956,2,2014, , ,42.430539,-97.09081
+17149,City of Sidney - (NE),2302,Sidney (NE),Map,Map,NE,Cheyenne,SWPP,Electric Utility,2,,2.2,2,2.1,Natural Gas Internal Combustion Engine,NG,IC,1,1951,5,2013, , ,41.145634,-102.9778
+18350,Sutherland City of,2306,Sutherland IC,Map,Map,NE,Lincoln,NPPD,Electric Utility,1,,0.5,0.5,0.5,Petroleum Liquids,DFO,IC,1,1952,5,2013, , ,41.1578,-101.1292
+18350,Sutherland City of,2306,Sutherland IC,Map,Map,NE,Lincoln,NPPD,Electric Utility,2,,0.9,0.9,0.9,Petroleum Liquids,DFO,IC,1,1959,5,2013, , ,41.1578,-101.1292
+18350,Sutherland City of,2306,Sutherland IC,Map,Map,NE,Lincoln,NPPD,Electric Utility,4,,1.4,1.4,1.4,Petroleum Liquids,DFO,IC,1,1964,5,2013, , ,41.1578,-101.1292
+4527,City of Crete,2231,Crete,Map,Map,NE,Saline,SWPP,Electric Utility,1,,0.4,0.4,0.4,Petroleum Liquids,DFO,IC,9,1939,4,2013, , ,40.6253,-96.9601
+4527,City of Crete,2231,Crete,Map,Map,NE,Saline,SWPP,Electric Utility,2,,1.3,1.3,1.3,Natural Gas Internal Combustion Engine,NG,IC,5,1955,4,2013, , ,40.6253,-96.9601
+4527,City of Crete,2231,Crete,Map,Map,NE,Saline,SWPP,Electric Utility,3,,0.9,0.8,0.9,Natural Gas Internal Combustion Engine,NG,IC,1,1951,4,2013, , ,40.6253,-96.9601
+4527,City of Crete,2231,Crete,Map,Map,NE,Saline,SWPP,Electric Utility,4,,1.1,1,1.1,Natural Gas Internal Combustion Engine,NG,IC,6,1947,4,2013, , ,40.6253,-96.9601
+4527,City of Crete,2231,Crete,Map,Map,NE,Saline,SWPP,Electric Utility,5,,2.5,2.4,2.5,Natural Gas Internal Combustion Engine,NG,IC,5,1963,4,2013, , ,40.6253,-96.9601
+4527,City of Crete,2231,Crete,Map,Map,NE,Saline,SWPP,Electric Utility,6,,3.3,3.3,3.3,Natural Gas Internal Combustion Engine,NG,IC,4,1965,4,2013, , ,40.6253,-96.9601
+17149,City of Sidney - (NE),2302,Sidney (NE),Map,Map,NE,Cheyenne,SWPP,Electric Utility,4,,1,0.8,0.8,Natural Gas Internal Combustion Engine,NG,IC,1,1947,1,2013, , ,41.145634,-102.9778
+13090,Village of Mullen - (NE),2280,Mullen,Map,Map,NE,Hooker,,Electric Utility,4,,0.6,0.6,0.6,Petroleum Liquids,DFO,IC,1,1966,1,2012, , ,41.9158,-101.1339
+13090,Village of Mullen - (NE),2280,Mullen,Map,Map,NE,Hooker,,Electric Utility,3,,0.4,0.3,0.3,Petroleum Liquids,DFO,IC,1,1958,1,2011, , ,41.9158,-101.1339
+20880,City of Wisner,2316,Wisner,Map,Map,NE,Cuming,SWPP,Electric Utility,1,,0.6,0.6,0.6,Petroleum Liquids,DFO,IC,88,1954,1,2010, , ,41.988069,-96.91599
+20880,City of Wisner,2316,Wisner,Map,Map,NE,Cuming,SWPP,Electric Utility,2,,0.4,0.4,0.4,Petroleum Liquids,DFO,IC,88,1947,1,2010, , ,41.988069,-96.91599
+1554,City of Benkelman - (NE),2218,Benkelman,Map,Map,NE,Dundy,,Electric Utility,2,,0.3,0.2,0.2,Petroleum Liquids,DFO,IC,88,1941,12,2007, , ,40.051111,-101.5347
+7055,General Growth Properties Inc,55038,Westroads Shopping Center,Map,Map,NE,Douglas,,Commercial CHP,GEN1,,1.2,0.8,0.6,Natural Gas Internal Combustion Engine,NG,IC,1,1996,11,2007, , ,41.261389,-96.03278
+7055,General Growth Properties Inc,55038,Westroads Shopping Center,Map,Map,NE,Douglas,,Commercial CHP,GEN2,,1.2,0.8,0.6,Natural Gas Internal Combustion Engine,NG,IC,1,1996,11,2007, , ,41.261389,-96.03278
+7055,General Growth Properties Inc,55038,Westroads Shopping Center,Map,Map,NE,Douglas,,Commercial CHP,GEN3,,1.2,0.8,0.6,Natural Gas Internal Combustion Engine,NG,IC,1,1996,11,2007, , ,41.261389,-96.03278
+7055,General Growth Properties Inc,55038,Westroads Shopping Center,Map,Map,NE,Douglas,,Commercial CHP,GEN4,,1,1,1,Petroleum Liquids,DFO,IC,1,1977,11,2007, , ,41.261389,-96.03278
+58190,Bluestem LLC,7771,Springview,Map,Map,NE,Keya Paha,SWPP,IPP Non-CHP,1,,0.7,0.7,0.7,Onshore Wind Turbine,WND,WT,10,1998,10,2007, , ,42.82579,-99.77747
+58190,Bluestem LLC,7771,Springview,Map,Map,NE,Keya Paha,SWPP,IPP Non-CHP,2,,0.7,0.7,0.7,Onshore Wind Turbine,WND,WT,10,1998,10,2007, , ,42.82579,-99.77747
+11481,City of Madison - (NE),7469,Madison Utilities,Map,Map,NE,Madison,SWPP,Electric Utility,FM4,,0.6,0.5,0.5,Petroleum Liquids,DFO,IC,3,1948,8,2005, , ,41.829754,-97.45628
+2888,City of Cambridge - (NE),2223,Cambridge,Map,Map,NE,Furnas,SWPP,Electric Utility,1,,0.7,0.7,0.7,Petroleum Liquids,DFO,IC,7,1957,3,2005, , ,40.286178,-100.1768
+2888,City of Cambridge - (NE),2223,Cambridge,Map,Map,NE,Furnas,SWPP,Electric Utility,2,,0.9,0.8,0.8,Petroleum Liquids,DFO,IC,12,1963,3,2005, , ,40.286178,-100.1768
+2888,City of Cambridge - (NE),2223,Cambridge,Map,Map,NE,Furnas,SWPP,Electric Utility,3,,1.3,1.2,1.2,Petroleum Liquids,DFO,IC,8,1971,3,2005, , ,40.286178,-100.1768
+2931,Village of Campbell - (NE),2225,Campbell Village,Map,Map,NE,Franklin,SWPP,Electric Utility,1,,0.1,0.1,0.1,Petroleum Liquids,DFO,IC,9,1927,1,2004, , ,40.2992,-98.7331
+2931,Village of Campbell - (NE),2225,Campbell Village,Map,Map,NE,Franklin,SWPP,Electric Utility,2,,0.1,0.1,0.1,Petroleum Liquids,DFO,IC,9,1937,1,2004, , ,40.2992,-98.7331
+2931,Village of Campbell - (NE),2225,Campbell Village,Map,Map,NE,Franklin,SWPP,Electric Utility,3,,0.1,0.1,0.1,Petroleum Liquids,DFO,IC,9,1946,1,2004, , ,40.2992,-98.7331
+13337,Nebraska Public Power District,6229,Mobile,Map,Map,NE,York,SWPP,Electric Utility,3,,1,0.8,0.8,Petroleum Liquids,DFO,IC,1,1980,12,2003, , ,40.883013,-97.60136
+21250,Western Sugar Co,54955,Western Sugar Bayard,Map,Map,NE,Morrill,,Industrial CHP,1,,1.5,1.4,1.5,Natural Gas Steam Turbine,NG,ST,9,1995,10,2002, , ,41.691667,-103.3208
+18350,Sutherland City of,2306,Sutherland IC,Map,Map,NE,Lincoln,NPPD,Electric Utility,3,,0.2,0.1,0.1,Petroleum Liquids,DFO,IC,1,1935,5,2002, , ,41.1578,-101.1292
+15773,City of Red Cloud - (NE),2299,Red Cloud,Map,Map,NE,Webster,SWPP,Electric Utility,1,,0.5,0.5,0.5,Petroleum Liquids,DFO,IC,1,1950,2,2002, , ,40.097954,-98.51903

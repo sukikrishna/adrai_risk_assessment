@@ -1,0 +1,4 @@
+Entity ID,Entity Name,Plant ID,Plant Name,Google Map,Bing Map,Plant State,County,Balancing Authority Code,Sector,Generator ID,Unit Code,Nameplate Capacity (MW),Net Summer Capacity (MW),Net Winter Capacity (MW),Technology,Energy Source Code,Prime Mover Code,Latitude,Longitude
+56625,Flat Water Wind Farm LLC,57283,Flat Water Wind Farm LLC,Map,Map,NE,Richardson,SWPP,IPP Non-CHP,WTG2,,6.9,6.9,6.9,Onshore Wind Turbine,WND,WT,40.0011,-95.9289
+60667,Aksamit Energy Development,61033,Monument Road,Map,Map,NE,Thayer,SWPP,IPP Non-CHP,MR001,,66,66,66,Onshore Wind Turbine,WND,WT,40.2341,-97.5203
+60776,Aksamit Resource Management,61159,Milligan III Wind Farm,Map,Map,NE,Saline,SWPP,IPP Non-CHP,M3001,,73.4,73.4,73.4,Onshore Wind Turbine,WND,WT,40.500672,-97.19809

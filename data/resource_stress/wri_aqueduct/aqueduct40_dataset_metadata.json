@@ -1,0 +1,18 @@
+{
+  "dataset": "WRI Aqueduct 4.0",
+  "version": "4.0 (2023)",
+  "citation": "Kuzma et al. (2023). Aqueduct 4.0. https://doi.org/10.46830/writn.23.00061",
+  "paper_citation_key": "kuzma2023aqueduct",
+  "url": "https://www.wri.org/data/aqueduct-global-maps-40-data",
+  "risk_variable": "R_res_j / W_j (water risk component)",
+  "key_indicators": {
+    "bws": "Baseline water stress (S_basin proxy)",
+    "bwd": "Baseline water depletion",
+    "iav": "Interannual variability",
+    "sev": "Seasonal variability",
+    "gtd": "Groundwater table decline (critical for Ogallala Aquifer)",
+    "rfr": "Riverine flood risk",
+    "drr": "Drought risk"
+  },
+  "nebraska_relevance": "Nebraska overlies the Ogallala/High Plains Aquifer. Elevated bws and gtd scores flag long-term depletion risk (S_basin). Missouri and Platte River basins are the primary HydroSHEDS units."
+}

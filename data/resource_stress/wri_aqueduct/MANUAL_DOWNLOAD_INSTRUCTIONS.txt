@@ -1,0 +1,25 @@
+WRI Aqueduct 4.0 — Manual Download Instructions
+================================================
+
+Automated download was not successful. Please download manually:
+
+1. Visit: https://www.wri.org/data/aqueduct-global-maps-40-data
+2. Click 'Download Data' for 'Aqueduct 4.0 — Baseline Water Risk — Annual'
+3. Select CSV format (the GDB is large; CSV is sufficient for tabular analysis)
+4. Place the downloaded file in this directory:
+   data/resource_stress/wri_aqueduct/
+
+5. Re-run this script to generate US and Nebraska-filtered subsets:
+   python download.py
+
+Alternatively, use the WRI Aqueduct Water Risk Atlas API:
+   https://www.wri.org/applications/aqueduct/water-risk-atlas/
+
+Key variables for AI infrastructure risk assessment (W_j):
+  - bws_raw / bws_score: baseline water stress (S_basin proxy)
+  - bwd_raw / bwd_score: baseline water depletion
+  - iav_raw / iav_score: interannual variability
+  - sev_raw / sev_score: seasonal variability
+  - gtd_raw / gtd_score: groundwater table decline (critical for Ogallala)
+  - rfr_raw / rfr_score: riverine flood risk
+  - drr_raw / drr_score: drought risk
